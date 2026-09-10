@@ -1,5 +1,4 @@
 <img src="../image/cuello_reposo_welch.png" width="120" alt="cuello_reposo_welch">
-<img src="../Imagenes/flexor_reposo.png" width="850">
 
 ## **5. Resultados** <a name="id7"></a>
 
