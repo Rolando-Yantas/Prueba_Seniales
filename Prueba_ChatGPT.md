@@ -284,15 +284,15 @@ plt.show()
 ---
 
 ### **5.2. EMG - Flexor radial del carpo**
-En esta sección se presentan las gráficas correspondientes al registro del **flexor radial del carpo** para las cuatro condiciones evaluadas. Para cada condición se consideran las representaciones temporal y frecuencial obtenidas durante el procesamiento.
+En esta sección se presentan las gráficas correspondientes al registro del **flexor radial del carpo** para las tres condiciones evaluadas.
 
-| Entrenamiento                   | Señal original             | Señal filtrada             | Señal rectificada          |
+| Condición                       | Señal original             | Señal filtrada             | Señal rectificada          |
 | ------------------------------- | -------------------------- | -------------------------- | -------------------------- |
 | Reposo                          | **Colocar aquí la imagen** | **Colocar aquí la imagen** | **Colocar aquí la imagen** | 
 | Movimiento leve sin oposición   | **Colocar aquí la imagen** | **Colocar aquí la imagen** | **Colocar aquí la imagen** |
 | Movimiento fuerte con oposición | **Colocar aquí la imagen** | **Colocar aquí la imagen** | **Colocar aquí la imagen** |
 
-| Entrenamiento                   | Densidad Espectral de Potencia (Welch) | Espectro de Frecuencias (FFT) |
+| Condición                       | Densidad Espectral de Potencia (Welch) | Espectro de Frecuencias (FFT) |
 | ------------------------------- | -------------------------------------- | ----------------------------- |
 | Reposo                          | **Colocar aquí la imagen**             | **Colocar aquí la imagen**    |
 | Movimiento leve sin oposición   | **Colocar aquí la imagen**             | **Colocar aquí la imagen**    |
@@ -301,15 +301,15 @@ En esta sección se presentan las gráficas correspondientes al registro del **f
 
 ### **5.3. EMG - Fibras descendentes del trapecio**
 
-En esta sección se presentan los resultados correspondientes a las **fibras descendentes del trapecio**. Se siguió el mismo procedimiento de procesamiento utilizado para el flexor radial del carpo, de modo que los resultados puedan compararse entre los dos músculos y entre las diferentes condiciones de actividad.
+En esta sección se presentan los resultados correspondientes a las **fibras descendentes del trapecio**. Se siguió el mismo procedimiento de procesamiento utilizado para el flexor radial del carpo.
 
-| Entrenamiento                   | Señal original             | Señal filtrada             | Señal rectificada          |
+| Condición                       | Señal original             | Señal filtrada             | Señal rectificada          |
 | ------------------------------- | -------------------------- | -------------------------- | -------------------------- |
 | Reposo                          | **Colocar aquí la imagen** | **Colocar aquí la imagen** | **Colocar aquí la imagen** |
 | Movimiento leve sin oposición   | **Colocar aquí la imagen** | **Colocar aquí la imagen** | **Colocar aquí la imagen** |
 | Movimiento fuerte con oposición | **Colocar aquí la imagen** | **Colocar aquí la imagen** | **Colocar aquí la imagen** |
 
-| Entrenamiento                   | Densidad Espectral de Potencia (Welch) | Espectro de Frecuencias (FFT) |
+| Condición                       | Densidad Espectral de Potencia (Welch) | Espectro de Frecuencias (FFT) |
 | ------------------------------- | -------------------------------------- | ----------------------------- |
 | Reposo                          | **Colocar aquí la imagen**             | **Colocar aquí la imagen**    |
 | Movimiento leve sin oposición   | **Colocar aquí la imagen**             | **Colocar aquí la imagen**    |
