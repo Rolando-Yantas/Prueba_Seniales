@@ -282,31 +282,6 @@ plt.savefig(
 plt.show()
 ```
 
-### l) Cálculo de parámetros de la señal
-
-Además de las representaciones gráficas, se calcularon parámetros cuantitativos para caracterizar cada registro EMG. Se obtuvieron el valor RMS, el valor medio absoluto (MAV), el valor máximo absoluto y la frecuencia mediana.
-
-```python
-rms = np.sqrt(np.mean(emg_filtrada ** 2))
-mav = np.mean(np.abs(emg_filtrada))
-valor_maximo = np.max(np.abs(emg_filtrada))
-
-potencia_acumulada = np.cumsum(psd)
-
-indice_mediano = np.where(
-    potencia_acumulada >= potencia_acumulada[-1] / 2
-)[0][0]
-
-frecuencia_mediana = frecuencias[indice_mediano]
-
-print("\nRESULTADOS DEL ANTEBRAZO EN REPOSO")
-print(f"RMS: {rms:.4f} ADC")
-print(f"MAV: {mav:.4f} ADC")
-print(f"Valor máximo absoluto: {valor_maximo:.4f} ADC")
-print(f"Frecuencia mediana: {frecuencia_mediana:.2f} Hz")
-```
-
-Estos parámetros fueron obtenidos para complementar la interpretación visual de las señales y permitir una comparación cuantitativa entre las diferentes condiciones experimentales.
 
 ---
 
