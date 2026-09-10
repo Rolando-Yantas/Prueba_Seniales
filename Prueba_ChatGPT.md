@@ -2,7 +2,7 @@
 
 En esta sección se presentan los resultados obtenidos a partir de las señales de electromiografía superficial (EMG) registradas durante las diferentes condiciones de actividad muscular. El procesamiento permitió visualizar las señales tanto en el dominio temporal como en el dominio frecuencial, con el propósito de facilitar la comparación de la actividad eléctrica muscular entre las distintas condiciones evaluadas.
 
-Las señales fueron procesadas mediante una serie de etapas que incluyeron la eliminación de la componente continua, filtrado pasabanda, eliminación de la interferencia asociada a la frecuencia de la red eléctrica, rectificación de la señal y análisis frecuencial.
+Las señales fueron procesadas mediante una serie de etapas que incluyeron la eliminación de la componente continua, filtrado pasabanda, rectificación de la señal y análisis frecuencial.
 
 El procedimiento se aplicó a los registros obtenidos para el **flexor radial del carpo** y las **fibras descendentes del trapecio**, considerando las condiciones de reposo, movimiento leve sin oposición, movimiento acelerado y movimiento fuerte con oposición.
 
