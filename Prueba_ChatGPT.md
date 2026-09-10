@@ -1,4 +1,4 @@
-## **5. Resultados** <a name="id7"></a>
+## **5. Resultados**
 
 En esta sección se presentan los resultados obtenidos a partir de las señales de electromiografía superficial (EMG) registradas durante las diferentes condiciones de actividad muscular. El procesamiento permitió visualizar las señales tanto en el dominio temporal como en el dominio frecuencial, con el propósito de facilitar la comparación de la actividad eléctrica muscular entre las distintas condiciones evaluadas.
 
@@ -24,7 +24,7 @@ from scipy.signal import butter, filtfilt, welch, iirnotch
 
 ### b) Selección y ubicación del registro
 
-Para cada análisis se seleccionó el archivo correspondiente a la señal EMG que se deseaba procesar. La ruta se estableció de manera relativa a la ubicación del programa, permitiendo trabajar directamente con los archivos almacenados en la carpeta de cada registro.
+Para cada análisis se seleccionó el archivo correspondiente a la señal EMG que se deseaba procesar.
 
 ```python
 from pathlib import Path
@@ -365,12 +365,12 @@ En esta sección se presentan los resultados correspondientes a las **fibras des
 | Movimiento acelerado            | **Colocar valor** | **Colocar valor** |           **Colocar valor** |       **Colocar valor** |
 | Movimiento fuerte con oposición | **Colocar valor** | **Colocar valor** |           **Colocar valor** |       **Colocar valor** |
 
-## **6. Análisis y discusión** <a name="id9"></a>
+## **6. Análisis y discusión**
 
-### **6.1. EMG - Flexor radial del carpo** <a name="id9"></a>
+### **6.1. EMG - Flexor radial del carpo**
 
 **[Análisis y discusión por completar a partir de las gráficas y los parámetros obtenidos.]**
 
-### **6.2. EMG - Fibras descendentes del trapecio** <a name="id9"></a>
+### **6.2. EMG - Fibras descendentes del trapecio**
 
 **[Análisis y discusión por completar a partir de las gráficas y los parámetros obtenidos.]**
