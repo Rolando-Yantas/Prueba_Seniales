@@ -280,11 +280,10 @@ plt.savefig(
 )
 
 plt.show()
-
+```
 ---
 
 ### **5.2. EMG - Flexor radial del carpo**
-### **5.1. Procesamiento y visualización de las señales EMG**
 En esta sección se presentan las gráficas correspondientes al registro del **flexor radial del carpo** para las cuatro condiciones evaluadas. Para cada condición se consideran las representaciones temporal y frecuencial obtenidas durante el procesamiento.
 
 | Entrenamiento                   | Señal original             | Señal filtrada             | Señal rectificada          |
