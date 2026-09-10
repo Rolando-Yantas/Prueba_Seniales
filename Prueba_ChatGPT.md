@@ -4,7 +4,7 @@ En esta sección se presentan los resultados obtenidos a partir de las señales 
 
 Las señales fueron procesadas mediante una serie de etapas que incluyeron la eliminación de la componente continua, filtrado pasabanda, rectificación de la señal y análisis frecuencial.
 
-El procedimiento se aplicó a los registros obtenidos para el **flexor radial del carpo** y las **fibras descendentes del trapecio**, considerando las condiciones de reposo, movimiento leve sin oposición, movimiento acelerado y movimiento fuerte con oposición.
+El procedimiento se aplicó a los registros obtenidos para el **flexor radial del carpo** y las **fibras descendentes del trapecio**, considerando las condiciones de reposo, movimiento leve sin oposición y movimiento fuerte con oposición.
 
 ### **5.1. Procesamiento y visualización de las señales EMG**
 
