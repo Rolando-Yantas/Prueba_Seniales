@@ -43,7 +43,6 @@ if not ruta.exists():
     )
 ```
 
-Este procedimiento permitió organizar los archivos correspondientes a cada condición y almacenar las gráficas generadas en una carpeta específica de resultados.
 
 ### c) Definición de los filtros
 
