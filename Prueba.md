@@ -99,7 +99,7 @@ plt.show()
 
 | Tipo de contracción / Ejercicio                  | Señal original | Señal filtrada                         |
 |----------------------------------------------|----------|---------------------------------|
-| Reposo                              | <img src="image/cuello_reposo_welch.png" width="120" alt="cuello_reposo_welch"> | <img src="image/cuello_reposo_welch.png" width="120" alt="cuello_reposo_welch"> |
+| Reposo                              | <img src="image/cuello_reposo_welch.png" width="867" alt="cuello_reposo_welch"> | <img src="image/cuello_reposo_welch.png" width="867" alt="cuello_reposo_welch"> |
 | Movimiento leve sin oposición                        | colocar aqui la imagen | colocar aqui la imagen |
 | Movimiento acelerado       | colocar aqui la imagen        | colocar aqui la imagen |
 | Movimiento fuerte con oposición                   | colocar aqui la imagen       | colocar aqui la imagen |
