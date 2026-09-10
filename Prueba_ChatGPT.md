@@ -1,6 +1,6 @@
 ## **5. Resultados** <a name="id7"></a>
 
-En esta sección se presentan los resultados obtenidos a partir del procesamiento de las señales de electromiografía superficial (EMG). Para cada condición experimental se visualizaron las señales en el dominio temporal y, posteriormente, se realizó el procesamiento necesario para obtener su representación filtrada y su comportamiento en frecuencia.
+Ahora se analizarán los resultados obtenidos a partir del procesamiento de las señales de electromiografía superficial (EMG). Para cada condición experimental se visualizaron las señales en el dominio temporal y, posteriormente, se realizó el procesamiento necesario para obtener su representación filtrada y su comportamiento en frecuencia.
 
 El análisis se realizó considerando dos músculos: el **flexor radial del carpo** y las **fibras descendentes del trapecio**. Para cada uno se evaluaron cuatro condiciones de actividad muscular: reposo, movimiento leve sin oposición, movimiento acelerado y movimiento fuerte con oposición.
 
