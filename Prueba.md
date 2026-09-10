@@ -1,3 +1,5 @@
+<img src="image/cuello_reposo_welch.png" width="120" alt="Adriana">
+
 ## **5. Resultados** <a name="id7"></a>
 
 Para la presentación de los resultados, emplearemos el script de Jupyter denominado "CodigosEMG.ipynb" que se ubica en el directorio del proyecto. Este archivo engloba los algoritmos diseñados para la representación gráfica de las señales biomédicas registradas, abarcando las etapas de filtrado digital y la evaluación en el dominio de la frecuencia.
